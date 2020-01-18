@@ -1,0 +1,4 @@
+﻿  Tic_Tac_Toe.cpp
+D:\c++\Studying\Tic_Tac_Toe\Tic_Tac_Toe\Tic_Tac_Toe.cpp(89,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\c++\Studying\Tic_Tac_Toe\Tic_Tac_Toe\Tic_Tac_Toe.cpp(83): warning C4715: winCheck: значение возвращается не при всех путях выполнения
+  Tic_Tac_Toe.vcxproj -> D:\c++\Studying\Tic_Tac_Toe\Debug\Tic_Tac_Toe.exe
