@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tic_Tac_Toe", "Tic_Tac_Toe\Tic_Tac_Toe.vcxproj", "{8C9C38DB-B157-40C6-BF7F-478E9D391FD0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Big_figures", "Big_figures\Big_figures.vcxproj", "{05EF3B32-EDDD-4C41-BF3F-B9BDE42AA975}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{8C9C38DB-B157-40C6-BF7F-478E9D391FD0}.Release|x64.Build.0 = Release|x64
 		{8C9C38DB-B157-40C6-BF7F-478E9D391FD0}.Release|x86.ActiveCfg = Release|Win32
 		{8C9C38DB-B157-40C6-BF7F-478E9D391FD0}.Release|x86.Build.0 = Release|Win32
+		{05EF3B32-EDDD-4C41-BF3F-B9BDE42AA975}.Debug|x64.ActiveCfg = Debug|x64
+		{05EF3B32-EDDD-4C41-BF3F-B9BDE42AA975}.Debug|x64.Build.0 = Debug|x64
+		{05EF3B32-EDDD-4C41-BF3F-B9BDE42AA975}.Debug|x86.ActiveCfg = Debug|Win32
+		{05EF3B32-EDDD-4C41-BF3F-B9BDE42AA975}.Debug|x86.Build.0 = Debug|Win32
+		{05EF3B32-EDDD-4C41-BF3F-B9BDE42AA975}.Release|x64.ActiveCfg = Release|x64
+		{05EF3B32-EDDD-4C41-BF3F-B9BDE42AA975}.Release|x64.Build.0 = Release|x64
+		{05EF3B32-EDDD-4C41-BF3F-B9BDE42AA975}.Release|x86.ActiveCfg = Release|Win32
+		{05EF3B32-EDDD-4C41-BF3F-B9BDE42AA975}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
